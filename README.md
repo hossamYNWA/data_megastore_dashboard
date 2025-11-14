@@ -177,7 +177,6 @@ Tracks the share of countries sales in each continent to know more about the act
 ## 🎓 Skills Demonstrated
 
 ✅ **Advanced DAX** – 70+ measures, YoY logic, field parameters  
-✅ **Star Schema Design** – Optimized for millions of rows  
 ✅ **Row-Level Security** – User role implementation  
 ✅ **Data Visualization** – Geographic mapping, hierarchical drill-down  
 ✅ **Collaborative Development** – Team-based complex project  
