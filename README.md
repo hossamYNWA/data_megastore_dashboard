@@ -23,28 +23,28 @@ sales-intelligence-platform/
 
 ├── dashboards/  
 
-│ ├── Sales Analysis  
+| ├── Sales Analysis  
 
-│ ├── Products Analysis  
+| ├── Products Analysis  
 
-│ ├── Categories Analysis  
+| ├── Categories Analysis  
 
-│ └── Promotions Analysis  
+| └── Promotions Analysis  
 
-│
-└── in-depth-analysis/ 
+  
+|── in-depth-analysis/ 
 
-├── Marketing Engagement (YTD, Custom Periods, Time Range)  
+| ├── Marketing Engagement (YTD, Custom Periods, Time Range)  
 
-├── Target Achievement  
+| ├── Target Achievement  
 
-├── Delivery vs Total Sales  
+| ├── Delivery vs Total Sales  
 
-├── Active Promotions Timeline  
+| ├── Active Promotions Timeline  
 
-├── Geographic Distribution  
+| ├── Geographic Distribution  
 
-└── Order Fulfillment Tracking  
+| └── Order Fulfillment Tracking  
 
 ---
 
